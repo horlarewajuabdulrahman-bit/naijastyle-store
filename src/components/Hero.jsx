@@ -10,7 +10,6 @@ function Hero() {
   return (
       <div className="hero-container">
 
-          <button className="shop-now" onClick={handleShopNow}>Shop Now</button>
       </div>
   
 
